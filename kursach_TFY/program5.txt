@@ -1,0 +1,8 @@
+program var int var1 begin [
+var1 = 5 * 8
+if var1 = 15 or var1 <> 7 then
+var1 as var1 + 12
+var1 as var1 - 2
+write(var1)
+]
+end

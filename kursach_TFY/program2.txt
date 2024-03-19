@@ -1,0 +1,8 @@
+program var int a, i begin [
+a as 5
+for i as 0 to 5 do [
+a as a + 1
+write(a)
+]
+]
+end

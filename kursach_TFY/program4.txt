@@ -1,0 +1,8 @@
+program var int a, i begin [
+read(a) a as a + 7
+for i as 4 to 8 do [
+a as a + 3
+write(a)
+]
+]
+end

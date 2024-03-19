@@ -1,0 +1,8 @@
+program var float number, pr begin [
+number as 15.5
+pr as 2.2
+while number > 1.5 do [
+number as number - 0.5 * number:write(number, pr)
+]
+]
+end
